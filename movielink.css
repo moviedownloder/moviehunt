@@ -1,0 +1,39 @@
+
+
+
+
+body{
+  background-image: url(karup.png.);
+background-color:rgba(228, 222, 139, 0.76);
+  background-blend-mode: screen
+}
+
+
+h1{
+  color: rgb(0, 0, 0);
+}
+
+
+.pushpa1{
+  height: 200px;
+  width: 150px;
+}
+.spider1{
+  height: 200px;
+  width: 150px;
+}
+h2{
+  position: absolute;
+  right: 40%;
+}
+
+.antim1{
+  height: 200px;
+  width: 150px;
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pushster', cursive;
+}
